@@ -4,7 +4,9 @@
 
 ## I am a self-taught programmer. I have programmed lots of applications (mostly cli), small games in python and some tools in batch and bash.
 
-    while imAlive:
-        I'm programming
+    while alive:
+        eat()
+        sleep()
+        code()
 
 ## : )
